@@ -1,0 +1,17 @@
+> OIE_002 INFO 2024-10-30T20:18:58.625Z Starting import operation.
+Execution Client: UI
+Job Name: Data Quality_ Mapping-1730319309931
+Organization: owais - DE
+Job Id: 7vsTNuPL9fCkVFkpFLOZcD
+User: owaisaziz54@gmail.com
+> OIE_006 INFO 2024-10-30T20:18:59.191Z Successfully imported object [/Explore/Project1/Rule Specification] of type [RULE_SPECIFICATION] id [jusj4LagtQugeXnmHVR34K] to [/Explore/Project1/Rule Specification]
+> OIE_006 INFO 2024-10-30T20:18:59.191Z Successfully imported object [/Explore/Project1/Cleanse] of type [CLEANSE] id [lP0rIOZH5yrjygkQveBTm9] to [/Explore/Project1/Cleanse]
+> OIE_006 INFO 2024-10-30T20:19:00.188Z Successfully imported object [/Explore/Default/Data Quality_ Mapping] of type [DTEMPLATE] id [b7jxiPP7S2id7Ogqpxng6M] to [/Explore/Default/Data Quality_ Mapping]
+> OIE_003 INFO 2024-10-30T20:19:00.188Z Finished import operation.
+Job Name: Data Quality_ Mapping-1730319309931
+Start Time: 10/30/24 8:18 PM
+End Time: 10/30/24 8:19 PM
+Started by: owaisaziz54@gmail.com
+Start Method: UI
+Source Organization: owais - DE
+Status: SUCCESSFUL
