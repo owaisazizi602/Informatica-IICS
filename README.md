@@ -1,4 +1,6 @@
 Data Pipeline Project: Complete ETL and ELT Workflow
+
+
 This repository contains two distinct data pipeline projects, showcasing both ELT and ETL workflows. Each project is tailored to different business requirements and utilizes a variety of data management tools to ensure reliable data ingestion, transformation, storage, and loading.
 
 Project 1: ELT Pipeline
